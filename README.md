@@ -1,7 +1,7 @@
 
 
 Welcome to my Data Structures and Algorithms notes journey
-i hacve learnt today on 7th July 2025
+i have learnt today on 7th July 2025
 
 ## 1. What is a Data Structure?
 
