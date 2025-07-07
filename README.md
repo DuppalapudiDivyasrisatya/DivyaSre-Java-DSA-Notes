@@ -51,6 +51,17 @@ Examples:
 | What is Algorithm | 7 July 2025 | Step-by-step procedure 
 | Why DSA is important | 7 July 2025 | Core for all interviews |
 
+# LeetCode Java Solutions by Divya
+
+Tracking my DSA practice for placements & FANG tech roles.
+
+## Progress Tracker
+
+| # | Problem | Level | Status | Link |
+|--|---------|-------|--------|------|
+| 1 | Two Sum | Easy | | [Link](https://leetcode.com/problems/two-sum/) |
+
+
 
 
 ## _I’ll be updating this regularly as I learn from the course and solve LeetCode problems._
