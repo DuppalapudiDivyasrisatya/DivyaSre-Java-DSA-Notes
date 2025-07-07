@@ -32,7 +32,7 @@ Examples:
 
 ---
 
-## 🧠 3. Why are Data Structures and Algorithms Important?
+##  3. Why are Data Structures and Algorithms Important?
 
 - Help write efficient, optimized, and faster programs
 - Used in all tech company interviews (FANG, MNCs)
